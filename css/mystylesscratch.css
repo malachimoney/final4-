@@ -1,0 +1,36 @@
+
+.common.nav {
+   color: black;
+   text-align: left;
+}
+
+.common.header {
+   font-size: xx-large;
+   font-family: 'Courier New', Courier, monospace;
+
+}
+
+.common.footer {
+    color: black;
+}
+.common.mainbody {
+    color: black;
+}
+.common.mainbody h1 {
+    color: black;
+}
+body {
+  text-align: center;
+   background-color: blueviolet;
+}
+h1 {
+color: black;
+}
+a{ 
+    color: black;
+    position: absolute;
+}
+
+
+
+
